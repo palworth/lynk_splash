@@ -37,7 +37,7 @@ copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "http://www.simpleimageresizer.com/_uploads/photos/7a2b0ae4/d3a2kwc-829dd3eb-a511-4280-9259-714d8eec3ff2_25.png" 
 [params.address]
 address = "1604 Homestead Trail, Long Lake CO"
 email = "lynkllc@gmail.com"
