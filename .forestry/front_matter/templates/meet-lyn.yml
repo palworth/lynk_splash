@@ -1,12 +1,6 @@
 ---
 label: Meet Lyn
 hide_body: true
-fields:
-- name: contact_lynk
-  type: text
-  config:
-    required: false
-  label: contact lynk
-  description: Reach out to us
+fields: []
 pages:
 - content/contact/ContactLynk.md
