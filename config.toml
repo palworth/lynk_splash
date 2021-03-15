@@ -15,6 +15,9 @@ weight = 6
 [[menu.main]]
 name = "Services"
 url = "#service"
+=======
+name = "Our Team"
+url = "#contact"
 weight = 3
 
 [[menu.main]]
